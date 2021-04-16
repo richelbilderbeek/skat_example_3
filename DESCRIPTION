@@ -1,0 +1,16 @@
+Package: skatexample3
+Title: SKAT example 3
+Version: 0.1
+Authors@R: c(
+    person("Richèl J.C.", "Bilderbeek", email = "richel@richelbilderbeek.nl", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-1107-7049")))
+Description: 
+    SKAT is a package.
+    A package does stuff.
+    This repo shows an example of that stuff.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    SKAT,
+    testthat,
+    tibble

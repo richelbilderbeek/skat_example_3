@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^script\.R$
+^LICENSE$
+^script\.R$
+^\.github$
+^GitHubActions\.png$
