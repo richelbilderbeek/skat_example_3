@@ -9,7 +9,6 @@ Description:
     This repo shows an example of that stuff.
 License: GPL-3
 Encoding: UTF-8
-LazyData: true
 Imports: 
     SKAT,
     testthat,
